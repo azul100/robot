@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ziTelnetVB">
+</Property><Property Name="Fichier solution" Value="C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\ziTelnetVB.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\ziTelnetVB.suo">
+</Property><Property Name="Date" Value="lundi 3 mars 2014">
+</Property><Property Name="Time" Value="09:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ziTelnetVB.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\ziTelnetVB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ziTelnetVB.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\ziTelnetVB.suo">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="ziTelnetVB.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\ziTelnetVB.vbproj">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="ziTelnetVB.vbproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\ziTelnetVB.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="FormMain.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\FormMain.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="FormMain.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\FormMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="FormMain.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\manu\Desktop\VBNET WIFI ETHERNET\_console send receive TCP VBNET\v1.1\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="ziTelnetVB.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="ziTelnetVB" Source="ziTelnetVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ziTelnetVB.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="ziTelnetVB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ziTelnetVB" Source="ziTelnetVB.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>
